@@ -4,4 +4,5 @@
 
 def roll(1...6)
   puts roll
+  return roll
 end
